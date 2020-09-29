@@ -1,5 +1,6 @@
 ---
-title: "ENVS 4826 - Assignment 2"
+title: "Article Analysis: ENVS 4826 Assignment 2"
+author: "Pavlos Skarvelis"
 output: html_document
 ---
 
@@ -7,11 +8,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Introduction
+This paper is intended as a summary and analysis of the article *Ageing Research Reviews* by Mark, et al., 2016. Discussed below will be the methodology of how research was conducted, along with any findings that were prevalent in the research discussed. Through the following summary, I hope to encourage many of my peers to experiment with intermittent fasting on an annually or bi-annually basis.
 
 ```{r cars}
 summary(cars)
