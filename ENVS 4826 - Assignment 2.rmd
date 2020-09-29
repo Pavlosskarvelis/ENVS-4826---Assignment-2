@@ -11,9 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Introduction
 This paper is intended as a summary and analysis of the article *Ageing Research Reviews* by Mark, et al., 2016. Discussed below will be the methodology of how research was conducted, along with any findings that were prevalent in the research discussed. Through the following summary, I hope to encourage many of my peers to experiment with intermittent fasting on an annually or bi-annually basis.
 
-```{r cars}
-summary(cars)
-```
+## Methods
+The authors of the article pulled much of their source information from other articles that have produced controlled lab tests and field studies. In depth summary of controlled groups was presented prior to showing concluding evidence, as seen in section 2. *IF and health indicators in Laboratory animals*. The aritcle covered many ranges of human and animal health-related risks that intermittent fasting impacts. Examples of intermittent fasting within humans was also displayed. Ghandi was used in explaining the nuerological benefits of intermittent fasting exhibited in him.
 
 ## Including Plots
 
