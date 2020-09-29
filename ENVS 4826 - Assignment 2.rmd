@@ -23,8 +23,3 @@ Mark, et al., resulted that intermittent fasting conducted properly in periods o
 ## Figures 
 
 ![*Figure 1*. The above represents three different eating habits and how the gluecose intake affects the ketones levels in individuals livers. Keytone levels are imperative to transforming fatty lipids into energy, thus "burning" fat in an individuals body. A constant supply of gluecose, as seen in A, exhibits no ketone production within the liver, continuing the cycle of fat collection, whilst B and B have 24 and 18 hour intervals, stimulating the production of ketones.](https://ars.els-cdn.com/content/image/1-s2.0-S1568163716302513-gr1_lrg.jpg) 
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
