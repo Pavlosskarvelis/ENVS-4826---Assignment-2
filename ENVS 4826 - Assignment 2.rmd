@@ -2,6 +2,8 @@
 title: "Article Analysis: ENVS 4826 Assignment 2"
 author: "Pavlos Skarvelis"
 output: html_document
+
+# The URL for the GitHub file (in case you would like to clone) is: gh repo clone Pavlosskarvelis/ENVS-4826---Assignment-2
 ---
 
 ```{r setup, include=FALSE}
